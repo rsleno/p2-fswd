@@ -152,5 +152,5 @@ def simulation():
 			reportMatch(pair[opt[0]], pair[opt[1]])
 
 
-# Run a simulation:
-# simulation()
+# Run simulation:
+simulation()
