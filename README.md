@@ -10,6 +10,7 @@ This program is the second project of the Full Stack Developer Nanodegree from [
 ## Requirements
 
 Python 2: [You can download it here!](https://www.python.org/downloads/)
+
 PostgreSQL: [You can download it here!](http://www.postgresql.org/download/)
 
 
