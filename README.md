@@ -14,11 +14,11 @@ Python 2: [You can download it here!](https://www.python.org/downloads/)
 PostgreSQL: [You can download it here!](http://www.postgresql.org/download/)
 
 
-##Testing
+## Running testcases
 
-Run the testcases: [tournament_test.py](tournament_test.py)
+python tournament_test.py
 
 
-## Simulation 
+## Running program 
 
-Run a tournament simulation: [tournament.py](tournament.py)
+python tournament.py
