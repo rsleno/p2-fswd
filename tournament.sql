@@ -16,9 +16,8 @@ CREATE TABLE IF NOT EXISTS players (
 );
 
 CREATE TABLE IF NOT EXISTS matches (
-	id serial PRIMARY KEY,
 	winner integer REFERENCES players (id),
-	loser integer REFERENCES players (id)
+	loser integer REFERENCES players (id)    
 );
 
 CREATE VIEW scores AS
