@@ -14,11 +14,14 @@ Python 2: [You can download it here!](https://www.python.org/downloads/)
 PostgreSQL: [You can download it here!](http://www.postgresql.org/download/)
 
 
-## Running testcases
+## Running info
 
-python tournament_test.py
+### Setup db
+- Run PostgreSQL:  psql
+- Import tournament.sql db: \i tournament.sql
 
+### Run testcases
+python tournament_test.py 
 
-## Running program 
-
+### Run tournament simulation
 python tournament.py
